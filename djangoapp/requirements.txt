@@ -1,0 +1,4 @@
+Django>=6.1.1,<6.2
+
+# Necessário para fazer a comunicação do Django com o PostgreSQL
+psycopg2-binary==2.9.9
